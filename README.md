@@ -42,3 +42,7 @@ Inicia sesión en la aplicación desde el frontend utilizando tus credenciales r
 
 ¡Listo! Ahora deberías poder acceder y utilizar la aplicación Kanbanv1.
 
+
+![image](https://github.com/Francis-Cisneros/task/assets/68484924/a8becc34-fce0-4072-b3ea-8046d0341f51)
+
+
