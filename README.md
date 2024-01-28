@@ -19,6 +19,7 @@ npm run dev
 
 
 Preparación del backend con Laravel:
+Ante cualquier falla de compatibilidad se recomienda utilizar composer dump-autoload y Composer Update
 
 Crear la base de datos:
 Antes de ejecutar el backend, asegúrate de tener una base de datos llamada kanbanv1 creada en tu entorno de desarrollo.
@@ -40,4 +41,8 @@ Inicio de sesión:
 Inicia sesión en la aplicación desde el frontend utilizando tus credenciales registradas.
 
 ¡Listo! Ahora deberías poder acceder y utilizar la aplicación Kanbanv1.
+
+
+![image](https://github.com/Francis-Cisneros/task/assets/68484924/a8becc34-fce0-4072-b3ea-8046d0341f51)
+
 
