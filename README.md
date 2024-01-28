@@ -19,6 +19,7 @@ npm run dev
 
 
 Preparación del backend con Laravel:
+Ante cualquier falla de compatibilidad se recomienda utilizar composer dump-autoload y Composer Update
 
 Crear la base de datos:
 Antes de ejecutar el backend, asegúrate de tener una base de datos llamada kanbanv1 creada en tu entorno de desarrollo.
